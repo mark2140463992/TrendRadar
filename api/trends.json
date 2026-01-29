@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:02:20.188254+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-01-29T23:37:27.425809+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -88,11 +88,26 @@
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时37分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时03分 ~ 23时37分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -116,19 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 10时38分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时03分 ~ 22时02分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -376,13 +378,24 @@
           "time_info": "03时38分"
         },
         {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
           "url": "https://wallstreetcn.com/livenews/3046514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -503,7 +516,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -541,6 +554,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
           "url": "https://wallstreetcn.com/livenews/3045679",
           "source": "华尔街见闻-快讯",
@@ -569,7 +593,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -588,7 +612,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -652,6 +676,17 @@
           "time_info": "[05时36分 ~ 07时33分]"
         },
         {
+          "title": "伊朗就德国总理默茨抨击伊朗革命卫队的言论召见德国大使。",
+          "url": "https://flash.jin10.com/detail/20260129231540183800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美媒：以色列高级情报官员访美通报涉伊朗情报",
           "url": "https://wallstreetcn.com/livenews/3046479",
           "source": "华尔街见闻-快讯",
@@ -674,6 +709,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时38分]"
+        },
+        {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            10,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时03分 ~ 23时37分]"
         },
         {
           "title": "评论员：伊朗数千枚导弹待命迎战",
@@ -713,18 +761,6 @@
           "time_info": "[07时33分 ~ 10时38分]"
         },
         {
-          "title": "伊朗：美若动武 伊将打击以色列",
-          "url": "https://www.douyin.com/hot/2382618",
-          "source": "抖音",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 22时02分]"
-        },
-        {
           "title": "伊朗副外长：做好200%的自卫准备",
           "url": "https://wallstreetcn.com/livenews/3045695",
           "source": "华尔街见闻-快讯",
@@ -759,6 +795,39 @@
           "time_info": "20时03分"
         },
         {
+          "title": "伊朗革命卫队副司令：敌人试图暗示我们软弱，但事实恰恰相反。我们的敌人正处于混乱之中。",
+          "url": "https://flash.jin10.com/detail/20260129230547316800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "伊朗：不会主动挑起战争 若遭到侵略将坚决反击",
+          "url": "https://wallstreetcn.com/livenews/3046565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "伊朗：不会主动挑起战争 若遭到侵略将坚决反击",
+          "url": "https://flash.jin10.com/detail/20260129230435807800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "俄罗斯总统普京：正密切关注伊朗局势，希望与阿联酋总统就此进行讨论。",
           "url": "https://flash.jin10.com/detail/20260129193447003800",
           "source": "金十数据",
@@ -790,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "伊朗革命卫队副司令：我们不惧任何威胁，凭借我们的威慑力量以及人民的意志，已成功阻止敌人进行任何冒险行动。",
+          "url": "https://flash.jin10.com/detail/20260129230156871800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
@@ -891,6 +971,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "对美国可能对伊朗发动军事袭击的担忧加剧，原油期货价格延续涨势，布伦特原油期货价格一度涨5%，创下2024年8月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260129225811577800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "伊朗外长称伊朗武装力量“随时准备扣动扳机”",
           "url": "https://wallstreetcn.com/livenews/3046000",
           "source": "华尔街见闻-快讯",
@@ -900,12 +991,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "两名外交官：欧盟部长就将伊朗伊斯兰革命卫队（IRGC）列入恐怖组织名单达成政治协议。",
+          "url": "https://flash.jin10.com/detail/20260129225308357800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -962,7 +1064,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1003,6 +1105,18 @@
           "time_info": "[05时36分 ~ 06时35分]"
         },
         {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时37分]"
+        },
+        {
           "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3046473",
           "source": "华尔街见闻-快讯",
@@ -1013,17 +1127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时55分 ~ 21时15分]"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
@@ -1170,6 +1273,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260128235421935800",
           "source": "金十数据",
@@ -1184,7 +1298,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1239,8 +1353,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 22时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时48分 ~ 23时37分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1260,11 +1374,12 @@
           "ranks": [
             15,
             13,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时03分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[20时03分 ~ 23时37分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -1303,6 +1418,18 @@
           "time_info": "[07时33分 ~ 10时38分]"
         },
         {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时37分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1313,17 +1440,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时33分 ~ 10时38分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报”三道红线“",
@@ -1346,6 +1462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
@@ -1390,6 +1517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "金价暴涨对普通人的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     },
@@ -1403,11 +1541,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时03分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[20时03分 ~ 23时37分]"
         },
         {
           "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
@@ -1469,8 +1608,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时03分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[20时03分 ~ 23时37分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1568,9 +1707,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
+          "url": "https://wallstreetcn.com/livenews/3046568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     }

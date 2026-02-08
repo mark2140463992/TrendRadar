@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-02-09T06:29:17.678829+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-02-09T07:32:49.409361+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 8,
       "titles": [
-        {
-          "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
-          "url": "https://flash.jin10.com/detail/20260208234419221800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            4,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
           "url": "https://www.toutiao.com/trending/7603686321965662214/",
@@ -29,8 +15,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时32分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
+          "url": "https://flash.jin10.com/detail/20260208234419221800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            4,
+            12,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -40,11 +41,12 @@
             6,
             5,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -122,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -133,11 +135,12 @@
             1,
             2,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -167,8 +170,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -208,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时32分]"
         }
       ]
     },
@@ -224,11 +227,12 @@
           "ranks": [
             9,
             28,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时38分 ~ 04时30分]"
+          "appearance_count": 5,
+          "time_info": "[02时38分 ~ 07时32分]"
         }
       ]
     },

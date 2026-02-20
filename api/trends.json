@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T15:52:57.043556+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-02-20T16:42:40.394193+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 16时42分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 16时42分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -44,17 +55,6 @@
           "time_info": "[10时07分 ~ 12时48分]"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时52分]"
-        },
-        {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
           "url": "https://news.ifeng.com/c/8qtImyHlk4E",
           "source": "凤凰网",
@@ -62,8 +62,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 16时42分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时42分]"
         },
         {
           "title": "特朗普赞叹中国仪仗队",
@@ -78,17 +89,6 @@
           "time_info": "[13时55分 ~ 15时52分]"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
-        },
-        {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
           "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
@@ -98,8 +98,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时42分]"
+        },
+        {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
+          "time_info": "[13时55分 ~ 16时42分]"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -237,19 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时35分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时52分]"
         },
         {
           "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
@@ -1031,7 +1031,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1066,8 +1066,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 16时42分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -1093,8 +1093,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 15时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 16时42分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -1199,8 +1199,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 16时42分]"
+        },
+        {
+          "title": "美考虑对伊朗有限军事打击",
+          "url": "https://www.douyin.com/hot/2406424",
+          "source": "抖音",
+          "ranks": [
+            19,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时42分]"
+        },
+        {
+          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/2008093003923808772",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时42分]"
         },
         {
           "title": "伊朗国防部队已进入全面战备状态",
@@ -1238,17 +1262,6 @@
           "time_info": "[10时07分 ~ 10时08分]"
         },
         {
-          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
-          "url": "https://www.zhihu.com/question/2008093003923808772",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
-        },
-        {
           "title": "伊朗专家：以色列是伊美谈判中最大不确定因素",
           "url": "https://flash.jin10.com/detail/20260220094114958800",
           "source": "金十数据",
@@ -1271,18 +1284,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时07分 ~ 13时55分]"
-        },
-        {
-          "title": "美考虑对伊朗有限军事打击",
-          "url": "https://www.douyin.com/hot/2406424",
-          "source": "抖音",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
@@ -1368,6 +1369,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "俄配合伊朗展开军演释放何信号",
+          "url": "https://www.toutiao.com/trending/7608813964167745034/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "伊朗致联合国秘书长的信：伊朗并不寻求紧张局势或战争，也不会率先发动战争。",
           "url": "https://flash.jin10.com/detail/20260220062312689800",
           "source": "金十数据",
@@ -1426,8 +1438,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时34分 ~ 15时52分]"
+          "appearance_count": 11,
+          "time_info": "[06时34分 ~ 16时42分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -1467,41 +1479,6 @@
           "time_info": "[00时54分 ~ 06时34分]"
         },
         {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 15时52分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 15时52分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 15时52分]"
-        },
-        {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
@@ -1512,8 +1489,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 16时42分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 16时42分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 16时42分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 16时42分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1584,6 +1596,17 @@
           "time_info": "[06时34分 ~ 07时32分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时42分]"
+        },
+        {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3056799",
           "source": "华尔街见闻-快讯",
@@ -1594,17 +1617,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         }
       ]
     },
@@ -1622,8 +1634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时42分]"
         },
         {
           "title": "Gemini3.1 Pro上线",

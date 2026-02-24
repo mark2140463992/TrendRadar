@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T05:45:10.904519+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-25T06:50:46.691281+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -48,11 +48,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -61,11 +62,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时27分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[02时27分 ~ 06时50分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -90,17 +92,6 @@
           "time_info": "04时37分"
         },
         {
-          "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3058357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
           "url": "https://wallstreetcn.com/livenews/3058315",
           "source": "华尔街见闻-快讯",
@@ -117,11 +108,24 @@
           "source": "微博",
           "ranks": [
             18,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 06时50分]"
+        },
+        {
+          "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3058357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
         },
         {
           "title": "特朗普政府被1000多家企业起诉",
@@ -136,6 +140,30 @@
           "time_info": "[02时27分 ~ 03时05分]"
         },
         {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 06时50分]"
+        },
+        {
+          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
+          "url": "https://flash.jin10.com/detail/20260225045852872800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
           "url": "https://wallstreetcn.com/livenews/3058275",
           "source": "华尔街见闻-快讯",
@@ -148,15 +176,16 @@
           "time_info": "[02时27分 ~ 03时05分]"
         },
         {
-          "title": "白宫：特朗普对伊朗首选方案是外交",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
-          "source": "百度热搜",
+          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
+          "url": "https://flash.jin10.com/detail/20260225045144248800",
+          "source": "金十数据",
           "ranks": [
-            27
+            12,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
+          "time_info": "[05时45分 ~ 06时50分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -190,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
-          "url": "https://flash.jin10.com/detail/20260225045852872800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
@@ -247,15 +265,15 @@
           "time_info": "03时05分"
         },
         {
-          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
-          "url": "https://flash.jin10.com/detail/20260225045144248800",
+          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
+          "url": "https://flash.jin10.com/detail/20260225052942727800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时50分"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -264,7 +282,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -304,8 +322,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -314,23 +332,26 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
           "ranks": [
-            11,
-            12
+            16,
+            17,
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -341,17 +362,16 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            17,
-            18
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -544,36 +564,38 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
-        },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -588,41 +610,67 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时50分]"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260225050547207800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260225050527378800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
           "url": "https://wallstreetcn.com/livenews/3058355",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -637,6 +685,18 @@
           "time_info": "[02时27分 ~ 03时05分]"
         },
         {
+          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3058353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时50分]"
+        },
+        {
           "title": "数字货币市场在美股早盘反弹",
           "url": "https://wallstreetcn.com/livenews/3058269",
           "source": "华尔街见闻-快讯",
@@ -649,35 +709,13 @@
           "time_info": "[02时27分 ~ 03时05分]"
         },
         {
-          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
-          "url": "https://flash.jin10.com/detail/20260225050111394800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3058353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -699,7 +737,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -757,6 +795,62 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3058362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
+          "url": "https://wallstreetcn.com/livenews/3058330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -775,36 +869,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
-          "url": "https://flash.jin10.com/detail/20260225040115362800",
-          "source": "金十数据",
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
-          "url": "https://wallstreetcn.com/livenews/3058330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时50分"
         }
       ]
     }

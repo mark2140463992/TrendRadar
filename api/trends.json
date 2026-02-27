@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:04:23.041479+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-02-27T23:39:11.799054+08:00",
+  "total_titles_processed": 2039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 74,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时05分 ~ 22时04分]"
+          "appearance_count": 18,
+          "time_info": "[10时05分 ~ 23时39分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -40,6 +40,68 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时31分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.toutiao.com/trending/7611299804274507827/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 23时39分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://news.ifeng.com/c/8r5eZdM8Csr",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 23时39分]"
+        },
+        {
+          "title": "提醒在伊朗的中国公民尽快撤离",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 23时39分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.cls.cn/detail/2297484",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 23时39分]"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 23时39分]"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
@@ -55,40 +117,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 10时06分]"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.toutiao.com/trending/7611299804274507827/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时04分]"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://news.ifeng.com/c/8r5eZdM8Csr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时04分]"
-        },
-        {
-          "title": "提醒在伊朗的中国公民尽快撤离",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时04分]"
         },
         {
           "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
@@ -124,6 +152,19 @@
           "time_info": "[01时01分 ~ 15时49分]"
         },
         {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时33分 ~ 23时39分]"
+        },
+        {
           "title": "中方正密切关注伊朗局势发展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
@@ -137,40 +178,36 @@
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.cls.cn/detail/2297484",
-          "source": "财联社热门",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时39分]"
         },
         {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
+          "title": "实拍伊朗德黑兰现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E4%BC%8A%E6%9C%97%E5%BE%B7%E9%BB%91%E5%85%B0%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时04分]"
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://www.douyin.com/hot/2413685",
-          "source": "抖音",
+          "title": "伊朗危!提醒中国公民撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351092&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%8D%B1%21%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
           "ranks": [
-            6,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时04分]"
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
           "title": "中国公民暂勿前往伊朗",
@@ -207,17 +244,6 @@
           "time_info": "06时35分"
         },
         {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "伊媒称伊朗拒绝向国外转移浓缩铀",
           "url": "https://flash.jin10.com/detail/20260227094913478800",
           "source": "金十数据",
@@ -249,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "国际原子能机构：无法确认伊朗铀浓缩活动现状",
+          "url": "https://wallstreetcn.com/livenews/3060392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
@@ -299,6 +336,29 @@
           "time_info": "[15时48分 ~ 16时42分]"
         },
         {
+          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时39分]"
+        },
+        {
+          "title": "美国 伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时39分]"
+        },
+        {
           "title": "伊朗石油出货量为何突然飙升",
           "url": "https://www.toutiao.com/trending/7611366925066571302/",
           "source": "今日头条",
@@ -309,6 +369,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时53分 ~ 14时56分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时39分]"
+        },
+        {
+          "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
+          "url": "https://wallstreetcn.com/articles/3766376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
@@ -370,13 +453,24 @@
           "time_info": "[01时01分 ~ 02时01分]"
         },
         {
+          "title": "IAEA：无法确认伊朗核活动",
+          "url": "https://www.douyin.com/hot/2413928",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
+        {
           "title": "加拿大再次要求其公民立即撤离伊朗",
           "url": "https://www.toutiao.com/trending/7610825565863428159/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -447,17 +541,6 @@
           "time_info": "18时39分"
         },
         {
-          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
           "url": "https://flash.jin10.com/detail/20260227055053276800",
           "source": "金十数据",
@@ -502,15 +585,26 @@
           "time_info": "18时39分"
         },
         {
-          "title": "美国 伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "英国从伊朗暂时撤出使馆工作人员",
+          "url": "https://wallstreetcn.com/livenews/3060382",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "23时39分"
+        },
+        {
+          "title": "伊朗德黑兰东南部一处仓库起火",
+          "url": "https://wallstreetcn.com/livenews/3060381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
@@ -555,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
+        },
+        {
+          "title": "国际原子能机构：无法确认伊朗铀浓缩活动现状",
+          "url": "https://flash.jin10.com/detail/20260227230201751800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "伊朗外长阿拉格齐：双方都需要与其各自首都（领导人）进行磋商。",
@@ -612,17 +717,6 @@
           "time_info": "04时40分"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：我们与美国的谈判取得了良好进展。",
           "url": "https://flash.jin10.com/detail/20260227032905911800",
           "source": "金十数据",
@@ -643,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "英国政府暂时从伊朗撤回工作人员",
+          "url": "https://flash.jin10.com/detail/20260227225723848800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "据AXIOS网站：知情人士透露，白宫特使库什纳和威特科夫对（当地时间）上午谈判中伊朗方面的回应感到失望。",
@@ -684,7 +789,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -742,13 +847,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "以军发言人：正密切监视伊朗局势 保持高度警惕",
+          "url": "https://wallstreetcn.com/livenews/3060361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            8,
+            14,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时42分 ~ 23时39分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时42分 ~ 23时39分]"
+        },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
@@ -792,34 +937,6 @@
           "time_info": "[01时01分 ~ 07时31分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10,
-            8,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时04分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时04分]"
-        },
-        {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
           "url": "https://www.zhihu.com/question/2009941400440025198",
           "source": "知乎",
@@ -856,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "特朗普媒体科技集团考虑将“Truth Social”分拆出来",
+          "url": "https://flash.jin10.com/detail/20260227231735776800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -931,7 +1059,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -959,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时46分 ~ 14时56分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时39分]"
         },
         {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
@@ -1142,17 +1281,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
           "url": "https://flash.jin10.com/detail/20260227044702015800",
           "source": "金十数据",
@@ -1228,12 +1356,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "特朗普政府周五面临首个重大关税退税法定期限",
+          "url": "https://wallstreetcn.com/livenews/3060363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -1268,7 +1407,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1279,7 +1418,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1290,7 +1429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1301,7 +1440,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1312,7 +1451,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1323,9 +1462,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
           "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
@@ -1334,7 +1484,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1345,7 +1495,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1356,7 +1506,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1367,7 +1517,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1378,7 +1528,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1389,7 +1539,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1400,7 +1550,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1411,7 +1561,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1422,9 +1572,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
@@ -1433,7 +1594,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1444,7 +1605,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1455,7 +1616,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1466,7 +1627,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1477,7 +1638,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1488,7 +1649,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1510,9 +1671,275 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 15时49分]"
+        },
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时31分]"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时06分]"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前下跌2.4%，Alphabet(GOOG.O)股价下跌0.7%，亚马逊(AMZN.O)股价盘前下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260227213721612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260227231502204800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
+          "url": "https://wallstreetcn.com/livenews/3059772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260227050836225800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260227050544804800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘后涨8%。",
+          "url": "https://flash.jin10.com/detail/20260227050538943800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "美股收盘：纳指跌超1% 英伟达大跌逾5%",
+          "url": "https://flash.jin10.com/detail/20260227050044369800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260227013229287800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "瑞银下调美股配置至中性 资金全球化分散趋势渐显",
+          "url": "https://flash.jin10.com/detail/20260227151220024800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3060167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
+          "url": "https://flash.jin10.com/detail/20260227053003552800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260227013033854800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后大涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260227064744288800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "避险情绪占主导且Block裁员加剧AI担忧，美股走低",
+          "url": "https://flash.jin10.com/detail/20260227230411009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3059778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3059777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
+          "url": "https://wallstreetcn.com/livenews/3059808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3060373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "CoreWeave美股盘后跌幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3059799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -1561,7 +1988,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1747,239 +2174,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时31分 ~ 15时49分]"
-        },
-        {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时31分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时06分]"
-        },
-        {
-          "title": "微软(MSFT.O)美股盘前下跌2.4%，Alphabet(GOOG.O)股价下跌0.7%，亚马逊(AMZN.O)股价盘前下跌0.9%。",
-          "url": "https://flash.jin10.com/detail/20260227213721612800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
-          "url": "https://wallstreetcn.com/livenews/3059772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260227050836225800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260227050544804800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "戴尔(DELL.N)美股盘后涨8%。",
-          "url": "https://flash.jin10.com/detail/20260227050538943800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "美股收盘：纳指跌超1% 英伟达大跌逾5%",
-          "url": "https://flash.jin10.com/detail/20260227050044369800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260227013229287800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "瑞银下调美股配置至中性 资金全球化分散趋势渐显",
-          "url": "https://flash.jin10.com/detail/20260227151220024800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
-          "url": "https://wallstreetcn.com/livenews/3060167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
-          "url": "https://flash.jin10.com/detail/20260227053003552800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260227013033854800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "奈飞(NFLX.O)美股盘后大涨近8%。",
-          "url": "https://flash.jin10.com/detail/20260227064744288800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3059778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3059777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
-          "url": "https://flash.jin10.com/detail/20260227200350341800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
-          "url": "https://wallstreetcn.com/livenews/3059808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "CoreWeave美股盘后跌幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3059799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -2001,7 +2195,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -2031,6 +2225,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
+        {
+          "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3059749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时34分]"
+        },
+        {
+          "title": "上证报：外国央行同步净减持美债折射外汇储备多元化趋势",
+          "url": "https://wallstreetcn.com/livenews/3059818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -2056,35 +2290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3059749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时34分]"
-        },
-        {
-          "title": "上证报：外国央行同步净减持美债折射外汇储备多元化趋势",
-          "url": "https://wallstreetcn.com/livenews/3059818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     },

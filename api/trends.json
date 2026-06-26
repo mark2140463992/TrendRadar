@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T15:54:08.102150+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-06-26T18:52:28.980858+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时52分]"
         },
         {
           "title": "伊朗外交部：希望那些领土和设施曾被美以侵略者用于近期强加战争中对伊朗发动攻击的地区国家，能够重新审视其立场。",
@@ -36,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -81,11 +82,12 @@
           "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 18时52分]"
         },
         {
           "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：美国和以色列试图通过改变伊朗政权并控制该国来消灭伊朗，他们相信自己能够做到这一点。",
@@ -94,7 +96,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -108,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -160,7 +173,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -215,7 +228,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -434,7 +447,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -496,6 +509,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时19分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
@@ -780,11 +804,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 18时52分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -795,8 +820,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 18时52分]"
         },
         {
           "title": "金价跌回3字头半年回撤30%",
@@ -806,8 +831,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 18时52分]"
         },
         {
           "title": "麦格里：下调年终金价预期至4300美元，预计黄金从明年开始逐年下跌至2030年",
@@ -843,11 +868,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 18时52分]"
         },
         {
           "title": "DeepSeek大规模招聘",

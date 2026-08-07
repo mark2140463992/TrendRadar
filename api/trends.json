@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-08-07T22:53:34.095076+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-08-07T23:56:56.473120+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
-        {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 18时02分]"
-        },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
@@ -32,8 +19,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 22时53分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 23时56分]"
+        },
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 18时02分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -100,7 +100,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -192,7 +192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -269,7 +280,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -280,9 +291,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
+        },
+        {
+          "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国总统特朗普：人工智能比互联网大很多倍。",
@@ -302,7 +324,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -368,7 +390,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -441,6 +463,17 @@
           "time_info": "[08时00分 ~ 19时46分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时14分 ~ 23时56分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -451,17 +484,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时00分 ~ 10时58分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时14分 ~ 22时53分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -502,11 +524,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -592,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时00分 ~ 22时53分]"
+          "appearance_count": 13,
+          "time_info": "[08时00分 ~ 23时56分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -605,8 +628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 23时56分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -621,6 +644,28 @@
           "time_info": "[08时00分 ~ 14时12分]"
         },
         {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
           "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3146560",
           "source": "华尔街见闻-快讯",
@@ -632,38 +677,17 @@
           "time_info": "16时15分"
         },
         {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
           "url": "https://www.cls.cn/detail/2448478",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时56分]"
         },
         {
           "title": "非农超预期下降，美股盘前快速拉升、存储概念股走高，光通信股AAOI涨超15%，现货黄金突破4300",
@@ -675,6 +699,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -694,7 +730,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -719,17 +755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        },
-        {
-          "title": "美股存储板块集体大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         }
       ]
     },
@@ -746,8 +771,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 23时56分]"
+        },
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
@@ -774,17 +810,6 @@
           "time_info": "[08时00分 ~ 14时12分]"
         },
         {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "伊朗发视频隐喻美国国运衰落原因",
           "url": "https://www.toutiao.com/trending/7671188288800899082/",
           "source": "今日头条",
@@ -809,6 +834,18 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
+          "url": "https://wallstreetcn.com/livenews/3146793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
           "url": "https://www.zhihu.com/question/2068728009981440588",
           "source": "知乎",
@@ -831,24 +868,13 @@
           "time_info": "08时01分"
         },
         {
-          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
-          "url": "https://wallstreetcn.com/livenews/3146793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "ADNOC：（自从美国+以色列对伊朗发动战争以来）公司15艘船只遭到打击。 在霍尔木兹海峡遭到的打击中，一人死亡、20人受伤。 仍然受到地区局势的“沉重”影响。",
           "url": "https://wallstreetcn.com/livenews/3146786",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -867,7 +893,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -879,6 +905,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -901,23 +950,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
@@ -929,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
+          "url": "https://wallstreetcn.com/livenews/3146816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
@@ -1010,7 +1059,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         }
